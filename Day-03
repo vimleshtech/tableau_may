@@ -1,0 +1,43 @@
+Functions:
+======================
+Text/string  function:
+	-upper()
+	-lower()
+	-len()
+	-left()
+	-right()
+	-replace()--> Replace({ProductName},"__","__")
+	
+
+Aggregeate function : to summarize the data 
+	-max()	
+	-min()
+	-sum()
+	-average()
+	-count()
+	-stddev()
+
+
+
+conditional:
+	if
+			sales > 500 
+				tax = 18%
+			elsid if sales>100
+				tax = 12%
+			else
+				5%
+
+	case when 
+	
+Date function:
+	today()    --today's date
+	datepart() --cut year and month from date 
+Other function:
+	runningtotal
+	running average
+	running difference 
+
+etc.
+
+	
